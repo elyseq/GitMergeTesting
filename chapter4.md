@@ -1,4 +1,4 @@
-# Chapter 4
+# Chapter 4!
 
 Finally, one evening, the sun set and stars twinkled in the dark sky. Woolly felt calm and dreamy. He changed his wool to a deep, dark blue sprinkled with tiny white lights resembling stars.
 
