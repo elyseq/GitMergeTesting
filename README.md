@@ -1,6 +1,6 @@
 # The Eagle With a Loose Tooth   ← (replace this with your title)
 
-- [Chapter 1](chapter1.md)
-- [Chapter 2](chapter2.md)
-- [Chapter 3](chapter3.md)
-- [Chapter 4](chapter4.md)
+- [Introduction](chapter1.md)
+- [Rainy Day](chapter2.md)
+- [Windy Adventure](chapter3.md)
+- [Twinkling Stars](chapter4.md)
